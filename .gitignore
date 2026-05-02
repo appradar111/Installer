@@ -18,15 +18,15 @@ Desktop.ini
 *.swo
 *.swn
 
-# Build artifacts and installers
-*.msi
-*.msix
-*.apk
-*.aab
-*.exe
-*.dmg
-*.pkg
-*.app
+# Build artifacts and installers (Explicitly allowing installer files as requested)
+# *.msi
+# *.msix
+# *.apk
+# *.aab
+# *.exe
+# *.dmg
+# *.pkg
+# *.app
 dist/
 build/
 bin/
