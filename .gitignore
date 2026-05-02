@@ -19,14 +19,6 @@ Desktop.ini
 *.swn
 
 # Build artifacts and installers (Explicitly allowing installer files as requested)
-# *.msi
-# *.msix
-# *.apk
-# *.aab
-# *.exe
-# *.dmg
-# *.pkg
-# *.app
 dist/
 build/
 bin/
